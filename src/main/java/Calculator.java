@@ -5,6 +5,6 @@ public class Calculator {
     }
 
     public int subtract (int a, int b) {
-        return a - b; // deze is niet goed
+        return a - b; // guido22 aangepast
     }
 }
