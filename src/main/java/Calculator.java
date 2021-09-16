@@ -5,6 +5,6 @@ public class Calculator {
     }
 
     public int subtract (int a, int b) {
-        return b-a; // deze is niet goed
+        return a +b; // deze is niet goed
     }
 }
